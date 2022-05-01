@@ -6,7 +6,7 @@ const favoritoContenido = document.querySelector("#favoritos"); /* para imprimir
 
 let search = document.getElementById("buscar");
 
-console.log("Jasmina Santander esto es mio")
+
 class Datos {
   constructor(id, nombre, imagen, color, descripcion, modal) {
     this.id = id;
@@ -200,6 +200,5 @@ window.addEventListener("load", function () {
 });
 
 
-
-console.log("probando ramas de git")
+console.log("probando ramas")
 
