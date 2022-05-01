@@ -6,7 +6,7 @@ const favoritoContenido = document.querySelector("#favoritos"); /* para imprimir
 
 let search = document.getElementById("buscar");
 
-
+console.log(jasmina)
 class Datos {
   constructor(id, nombre, imagen, color, descripcion, modal) {
     this.id = id;
