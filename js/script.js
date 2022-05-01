@@ -201,4 +201,5 @@ window.addEventListener("load", function () {
 
 
 console.log(ja)
+console.log(smi)
 
